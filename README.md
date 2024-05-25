@@ -2,25 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.5.
 
-## Development server
+![operation](https://github.com/MeryemBouzakri/AngularEbanking/assets/141282694/8ae32400-5d3e-45a3-92f8-9ddd591dad9f)
+![costumer11](https://github.com/MeryemBouzakri/AngularEbanking/assets/141282694/b5734c6b-f18d-4e01-ad55-7751373a0e53)
+![costumer2](https://github.com/MeryemBouzakri/AngularEbanking/assets/141282694/de466d7d-6b24-4b21-9473-f3e41f8fad6c)
+![account2](https://github.com/MeryemBouzakri/AngularEbanking/assets/141282694/adce2da4-b456-4b60-8ac0-544e1ea45094)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
 ## Further help
 
